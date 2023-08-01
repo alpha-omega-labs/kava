@@ -200,7 +200,7 @@ replace (
 	// Use the cosmos keyring code
 	github.com/99designs/keyring => github.com/cosmos/keyring v1.2.0
 	// Use rocksdb 7.9.2
-	github.com/cometbft/cometbft-db => github.com/kava-labs/cometbft-db v0.7.0-rocksdb-v7.9.2-kava.1
+	github.com/cometbft/cometbft-db => github.com/alpha-omega-labs/cometbft-db v0.1-genesis
 	// Use cosmos-sdk fork with backported fix for unsafe-reset-all, staking transfer events, and custom tally handler support
 	github.com/cosmos/cosmos-sdk => github.com/kava-labs/cosmos-sdk v0.46.11-kava.1
 	// See https://github.com/cosmos/cosmos-sdk/pull/13093
